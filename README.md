@@ -1,3 +1,3 @@
 Collection of passion projects re/ robotics
 
-includes path planning algorithms, C++ work with more to come.
+1. Includes projects, path planning algorithms, C++ work, and more...
