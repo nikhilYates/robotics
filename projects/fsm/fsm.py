@@ -76,7 +76,7 @@ def euler_from_quaternion(quaternion):
 class FSM_STATES(Enum):
     AT_START = 'AT STart',
     FIND_PATH = 'Finding Path',
-    HEADING_TO_TASK = 'Heading To Task Enterance ',
+    HEADING_TO_TASK = 'Heading To Task Entrance ',
     HEADING_TO_RADIO_SITE = 'Heading To Radioactive site ',
     SCAN_SITE = 'Scanning Area',
     RETURNING_FROM_RADIO_SITE= 'Returning From Radioactive site ',    
